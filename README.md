@@ -5,11 +5,11 @@
 
 O seguinte projeto consiste em uma aplicação web que realiza o cadastro de itens, utilizando o LocalStorage para o armazenamento dos dados.
 
-- *O código foi escrito do zero, por mim, buscando criar métodos de validação por conta própria utilizando HTML, CSS e JS puros (sem a utilização de frameworks), objetivando demonstrar meu conhecimento acerca das linguagens e seus recursos, bem como minha lógica em variadas situações.* 
+- *O código foi escrito do zero, por mim, buscando criar os métodos de validação por conta própria utilizando HTML, CSS e JS puros (sem a utilização de frameworks), objetivando demonstrar meu conhecimento acerca das linguagens e seus recursos, bem como minha lógica em variadas situações.* 
 
-- *É provável que ocorram alguns bugs, fruto da não utilização de frameworks, componentização mais avançada e ferramentas de validação mais robustas.*
+- *É provável que ocorram alguns bugs, fruto da não utilização de frameworks, componentização mais avançada e ferramentas de validação mais robustas. Coloco-me inteiramente à disposição para corrigir estes eventuais bugs, caso julguem ser necessário.*
 
-- A aplicação inicia em uma tela de preenchimento de formulário, com um menu de navegação lateral interativo e um sistema de navegação estruturada no topo. Os campos de preenchimento do formulário possúem características específicas de validação:
+- A aplicação inicia em uma tela de preenchimento de formulário, com um menu de navegação lateral interativo e um sistema de navegação estruturada no topo. Os campos de preenchimento do formulário possuem características específicas de validação:
 
 1. Nome: Apenas letras (optei por incluir espaços também na RegEx) com no máximo 50 caracteres. *Obrigatório*
 2. Unidade de medida: Select de opções (litro(s), quilograma(s), unidade(s)). *Obrigatório*
