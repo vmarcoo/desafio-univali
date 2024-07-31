@@ -7,7 +7,7 @@ O seguinte projeto consiste em uma aplicação web que realiza o cadastro de ite
 
 - *O código foi escrito do zero, por mim, buscando criar os métodos de validação por conta própria utilizando HTML, CSS e JS puros (sem a utilização de frameworks), objetivando demonstrar meu conhecimento acerca das linguagens e seus recursos, bem como minha lógica em variadas situações.* 
 
-- *É provável que ocorram alguns bugs, fruto da não utilização de frameworks, componentização mais avançada e ferramentas de validação mais robustas. Coloco-me inteiramente à disposição para corrigir estes eventuais bugs, caso julguem ser necessário.*
+- *É provável que alguns bugs tenham passado despercebidos, fruto da não utilização de frameworks, componentização mais avançada e ferramentas de validação mais robustas. Coloco-me inteiramente à disposição para consertá-los, caso julguem ser necessário.*
 
 - A aplicação inicia em uma tela de preenchimento de formulário, com um menu de navegação lateral interativo e um sistema de navegação estruturada no topo. Os campos de preenchimento do formulário possuem características específicas de validação:
 
